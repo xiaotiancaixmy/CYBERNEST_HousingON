@@ -275,12 +275,15 @@ Logic:
 
 Findings:
 
-* During COVID-19, the daily return of Triocon a construction company, displays decreases due to lockdown challenges and economic uncertainty. This company was impacted by disruptions in supply chains and project delays.
+* Correlation Heatmap: The real estate company shows a weak correlation with both the construction company and the S&P/TSX index, the construction company demonstrates a stronger correlation with the S&P/TSX index. This indicates that the construction company's performance may be more influenced by the broader market conditions. It is important to consider these factors when evaluating investment strategies and managing portfolio risk
 
 * Daily returns are crucial performance indicators that measure changes in an investment's value from one trading day to the next. Analyzing the daily returns of real estate and construction companies allows us to assess their performance and relative strength.
 
 * Rolling beta measures how a stock's returns respond to market changes over a specific period. By calculating the rolling beta for our portfolio stocks, we can understand their risk profiles and adapt to market movements. Monitoring these fluctuations is vital for effective risk management.
-* Correlation Heatmap: The real estate company shows a weak correlation with both the construction company and the S&P/TSX index, the construction company demonstrates a stronger correlation with the S&P/TSX index. This indicates that the construction company's performance may be more influenced by the broader market conditions. It is important to consider these factors when evaluating investment strategies and managing portfolio risk
+
+* During COVID-19, the daily return of Triocon a construction company, displays decreases due to lockdown challenges and economic uncertainty. This company was impacted by disruptions in supply chains and project delays.
+
+
 
 <table>
   <tr>
