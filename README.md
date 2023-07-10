@@ -161,13 +161,13 @@ In our data, we have different price ranges for each house type. To offer a more
 
 For example:
 
-Weighted Average Price (Single-Family House, 2019)=
+    Weighted Average Price (Single-Family House, 2019)=
 
-[(# of unit from 1st price range in 2019 * midpoint price of 1st price range) / total unit in 2019] +
+    [(# of unit from 1st price range in 2019 * midpoint price of 1st price range) / total unit in 2019] +
 
-[(# of unit from 2nd price range in 2019 * midpoint price of 2nd price range) / total unit in 2019] +
- 
-... (so on for all price ranges)
+    [(# of unit from 2nd price range in 2019 * midpoint price of 2nd price range) / total unit in 2019] +
+    
+    ... (so on for all price ranges)
 
 Findings:
 
